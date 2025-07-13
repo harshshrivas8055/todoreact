@@ -15,10 +15,11 @@ If you are developing a production application, we recommend using TypeScript wi
 
 <p align="center">
   A simple and fast To‑Do List web app built using <strong>React</strong> and <strong>Vite</strong>.  
+  <a href="https://todoreact-teal.vercel.app/"> link of todo </a>
 </p>
 
 <p align="center">
-  <a href="https://todoreact-teal.vercel.app/" />
+  <a href="https://todoreact-teal.vercel.app/"> link of todo </a>
   <img src="https://img.shields.io/badge/React-%5E18-blue?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/Vite-%5E4.5-purple?style=for-the-badge&logo=vite" />
   <img src="https://img.shields.io/badge/ESLint-enabled-blueviolet?style=for-the-badge&logo=eslint" />
